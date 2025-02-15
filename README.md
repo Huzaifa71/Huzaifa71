@@ -8,14 +8,12 @@ I'm a **Software Engineer | AI & ML Innovator | Lecturer** with a strong backgro
 💡 **Building AI-powered applications, developing cross-platform mobile apps, and contributing to open source!**
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Huzaifa71&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa71&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa71&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Muhammad Huzaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huzaifa71&show_icons=true&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Huzaifa71&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa71&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Huzaifa71&theme=radical)](https://git.io/streak-stats)
+
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Huzaifa71&theme=radical&margin-w=15)
