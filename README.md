@@ -7,7 +7,6 @@ I'm a **Software Engineer | AI & ML Innovator | Lecturer** with a strong backgro
 🎓 **Currently Teaching:** Full Stack Development using Flask, Web Development, Python, Java OOP, SQL, Spring Boot, Generative AI, Artificial Intelligence and Deep Learning   
 💡 **Building AI-powered applications, developing cross-platform mobile apps, and contributing to open source!**
 
-## 📊 GitHub Stats
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Huzaifa71&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa71&theme=dark&hide_border=false)<br/>
