@@ -12,7 +12,7 @@ I'm a **Software Engineer | AI & ML Innovator | Lecturer** with a strong backgro
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa71&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa71&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Huzaifa71&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Huzaifa71&theme=radical&margin-w=15)
