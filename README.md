@@ -4,7 +4,7 @@
 I'm a **Software Engineer | AI & ML Innovator | Lecturer** with a strong background in **Generative AI, Machine Learning, Deep Learning, Full-Stack Development, and Mobile Applications**. Passionate about **teaching, mentoring, and building AI-driven applications**!
 
 🔬 **Expertise in:** AI/ML, Python, Java, Flask, Django, OpenCV, TensorFlow, PyTorch, MySQL, Flutter & Dart for Mobile Applications, Spring Boot, Azure Deployment, Web Technologies (HTML, CSS, Bootstrap 5)  
-🎓 **Currently Teaching:** Generative AI, Python, Java OOP, SQL, Web Development  
+🎓 **Currently Teaching:** Full Stack Development using Flask, Web Development, Python, Java OOP, SQL, Spring Boot, Generative AI, Artificial Intelligence and Deep Learning   
 💡 **Building AI-powered applications, developing cross-platform mobile apps, and contributing to open source!**
 
 ## 📊 GitHub Stats
@@ -32,24 +32,6 @@ I'm a **Software Engineer | AI & ML Innovator | Lecturer** with a strong backgro
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-## 💼 Experience
-### **Lecturer at Sir Syed University of Engineering & Technology (Oct 2024 – Present)**
-- Teaching **Generative AI, Machine Learning, Python (Flask), Java OOP, SQL, Web Development**.
-- Conducting research on **AI and deep learning applications**.
-- Organizing hands-on **AI, web development, and cloud computing workshops**.
-
-### **Generative AI & ML/DL Innovator at XPACE TECHNOLOGIES (Mar 2024 – Oct 2024)**
-- Developed **custom AI models** for **text generation, image processing, and automation**.
-- Implemented **LLM models using LangChain & vector databases**.
-- Researched and optimized **deep learning frameworks** for efficiency.
-- Designed **Azure-based deployment pipelines** for scalable AI solutions.
-
-
-### **Chief Learning Officer at Tech Carnot (Nov 2021 – Jul 2024)**
-- Developed & delivered **technical skill development courses**.
-- Mentored students in **AI/ML, web & mobile development**.
-- Conducted **industry-level training** in **Flask, Django, Generative AI, and Spring Boot**.
 
 ## 🚀 Featured Projects
 - 🚀 **[SmogMaster](https://github.com/Huzaifa71/smogmaster)** - AI-powered object detection in low-visibility conditions.
