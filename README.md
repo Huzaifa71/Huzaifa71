@@ -8,10 +8,8 @@ I'm a **Software Engineer | AI & ML Innovator | Lecturer** with a strong backgro
 💡 **Building AI-powered applications, developing cross-platform mobile apps, and contributing to open source!**
 
 ## 📊 GitHub Stats
-![Muhammad Huzaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huzaifa71&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa71&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Huzaifa71)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Huzaifa71&theme=radical&margin-w=15)
