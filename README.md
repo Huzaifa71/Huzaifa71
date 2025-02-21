@@ -36,7 +36,7 @@ I'm a **Software Engineer | AI & ML Innovator | Lecturer** with a strong backgro
 
 ## 🚀 Featured Projects
 - 🚀 **[SmogMaster](https://github.com/Huzaifa71/smogmaster)** - AI-powered object detection in low-visibility conditions.
-- 🔬 **[Breast Cancer Classification](https://github.com/Huzaifa71/breast-cancer-classification)** - ML model for cancer prediction.
+- 🔬 **[Real-Time-Breast-Cancer-Prediction-Using-XGBoost](https://github.com/Huzaifa71/Real-Time-Breast-Cancer-Prediction-Using-XGBoost)** - ML model for cancer prediction.
 - 📱 **[AI-Powered Mobile App](https://github.com/Huzaifa71/ai-mobile-app)** - Flutter-based AI assistant.
 - 🛍 **[Electron Emporium](https://github.com/Huzaifa71/electron-emporium)** - E-commerce platform built with Django.
 - ☁ **[Spring Boot & Azure Deployment](https://github.com/Huzaifa71/springboot-azure)** - Scalable Spring Boot application deployed on Azure.
