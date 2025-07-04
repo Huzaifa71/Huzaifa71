@@ -35,7 +35,7 @@ I'm a **Software Engineer | AI & ML Innovator | Lecturer** with a strong backgro
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 🚀 Featured Projects
-- 🚀 **[🚀 𝘽𝙪𝙞𝙡𝙩 𝙖 𝘾𝙪𝙨𝙩𝙤𝙢 𝙒𝙚𝙖𝙩𝙝𝙚𝙧 𝙄𝙣𝙛𝙤 𝙏𝙤𝙤𝙡 𝙬𝙞𝙩𝙝 𝙈𝘾𝙋 (𝙈𝙤𝙙𝙚𝙡 𝘾𝙤𝙣𝙩𝙚𝙭𝙩 𝙋𝙧𝙤𝙩𝙤𝙘𝙤𝙡) 🌦️]([https://github.com/Huzaifa71/smogmaster](https://github.com/Huzaifa71/MCP_Weather-info_tool.git))** Tool 🌦️ using FastMCP and OpenWeatherMap!
+- 🚀 **[𝘾𝙪𝙨𝙩𝙤𝙢 𝙒𝙚𝙖𝙩𝙝𝙚𝙧 𝙄𝙣𝙛𝙤 𝙏𝙤𝙤𝙡 𝙬𝙞𝙩𝙝 𝙈𝘾𝙋 (𝙈𝙤𝙙𝙚𝙡 𝘾𝙤𝙣𝙩𝙚𝙭𝙩 𝙋𝙧𝙤𝙩𝙤𝙘𝙤𝙡)]([https://github.com/Huzaifa71/smogmaster](https://github.com/Huzaifa71/MCP_Weather-info_tool.git))** Tool 🌦️ using FastMCP and OpenWeatherMap!
 It fetches current weather data for any Pakistani city using async Python (httpx) and supports conversational LLM prompts via FastMCP.
 - 🚀 **[SmogMaster](https://github.com/Huzaifa71/smogmaster)** - AI-powered object detection in low-visibility conditions.
 - 🔬 **[Real-Time-Breast-Cancer-Prediction-Using-XGBoost](https://github.com/Huzaifa71/Real-Time-Breast-Cancer-Prediction-Using-XGBoost)** - ML model for cancer prediction.
