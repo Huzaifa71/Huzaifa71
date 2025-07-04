@@ -39,7 +39,7 @@ I'm a **Software Engineer | AI & ML Innovator | Lecturer** with a strong backgro
 It fetches current weather data for any Pakistani city using async Python (httpx) and supports conversational LLM prompts via FastMCP.
 - 🚀 **[SmogMaster](https://github.com/Huzaifa71/smogmaster)** - AI-powered object detection in low-visibility conditions.
 - 🔬 **[Real-Time-Breast-Cancer-Prediction-Using-XGBoost](https://github.com/Huzaifa71/Real-Time-Breast-Cancer-Prediction-Using-XGBoost)** - ML model for cancer prediction.
-- 📱 **[AI-Powered Mobile App](https://github.com/Huzaifa71/ai-mobile-app)** - Flutter-based AI assistant.
+- 📱 **[Smart Mirror](https://github.com/Huzaifa71/smart-mirror.git)** - 𝐴 ℎ𝑎𝑟𝑑𝑤𝑎𝑟𝑒 𝑎𝑛𝑑 𝑠𝑜𝑓𝑡𝑤𝑎𝑟𝑒-𝑏𝑎𝑠𝑒𝑑 𝑠𝑚𝑎𝑟𝑡 𝑚𝑖𝑟𝑟𝑜𝑟.
 - 🛍 **[Electron Emporium](https://github.com/Huzaifa71/electron-emporium)** - E-commerce platform built with Django.
 - ☁ **[Spring Boot & Azure Deployment](https://github.com/Huzaifa71/springboot-azure)** - Scalable Spring Boot application deployed on Azure.
 
