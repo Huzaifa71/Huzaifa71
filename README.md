@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Huzaifa! 👋
+# I'm Muhammad Huzaifa! 👋
 
 ## 🚀 About Me
 I'm a **Software Engineer | AI & ML Innovator | Lecturer** with a strong background in **Generative AI, Machine Learning, Deep Learning, Full-Stack Development, and Mobile Applications**. Passionate about **teaching, mentoring, and building AI-driven applications**!
